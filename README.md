@@ -29,7 +29,7 @@ This project is designed as a beginner-friendly practice to understand DOM manip
 ---
 
 ## 🌐 Live Demo
-Play the game here 👉 [Tic Tac Toe Live](https://your-username.github.io/tic-tac-toe/)  
+Play the game here 👉 [Tic Tac Toe Live](https://arbab-mav.github.io/Tick-Tack-Toe-game/)  
 
 ---
 
